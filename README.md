@@ -1,5 +1,6 @@
 # Patrones de Diseño
 
+> [Enlace a apuntes](https://www.notion.so/Patrones-de-Diseno-JS-c5e33a0812424c478f32f11c84734a97)
 ## Notas y Apuntes
 Cada patron cuenta con uno o mas archivos. Para poder utilizarlos se tiene que utilizar una terminal y correr el comando de node:
 
@@ -18,26 +19,24 @@ Antipatron => leccion aprendida
 ### Tipos de Patrones [Addy Osmani]
 
 1. Creacionales
-	Ayudan a crear objetos, instancias de objetos
+	- Ayudan a crear objetos, instancias de objetos
 	
-	CONSTRUCTOR PROTOTIPO
+	- CONSTRUCTOR PROTOTIPO
 	Todos los metodos o propiedades que se asignen al prototipo no se van a copiar a las instancias de los objetos
 	La clase object lo tienen todos los objetos en javascript
 	
-	PATRON MODULO (API PUBLICA)
+	- PATRON MODULO (API PUBLICA)
 	
-	PATRON MODULO REVELADOR (API PRIVADA)
+	- PATRON MODULO REVELADOR (API PRIVADA)
 		Se puede utilizar una funcion para crear un modulo revelador, definida por un ifi
 	
 2. Estructura
-	Entregan una interfaz para comunicar estructuras entre si
+	- Entregan una interfaz para comunicar estructuras entre si
 
 3. Comportamiento
-	Ayudan a lograr desacoplar el codigo para tener codigo mas facil de mantener
+	- Ayudan a lograr desacoplar el codigo para tener codigo mas facil de mantener
 	
 	
-CLOSURES
-	Funcionalidad de JS que permite reutilizar codigo 
-	Ver el alcance de las funciones en JS
-	
-	
+> CLOSURES
+	- Funcionalidad de JS que permite reutilizar codigo 
+	- Ver el alcance de las funciones en JS
