@@ -1,5 +1,7 @@
 # Patrones de Diseño
 
+> [Enlace a apuntes](https://www.notion.so/Patrones-de-Diseno-JS-c5e33a0812424c478f32f11c84734a97)
+
 ## Notas y Apuntes
 Cada patron cuenta con uno o mas archivos. Para poder utilizarlos se tiene que utilizar una terminal y correr el comando de node:
 
