@@ -16,7 +16,8 @@ node index.js
 
 Antipatron => leccion aprendida
 
-### Tipos de Patrones [Addy Osmani]
+### Tipos de Patrones 
+> [Addy Osmani]
 
 1. Creacionales
 	- Ayudan a crear objetos, instancias de objetos
